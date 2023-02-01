@@ -10,7 +10,7 @@
 
 
 
-## 11 conference (c) papers; 9 journals (J); and 3 theses (t)
+## 11 conference (c) papers; 9 journals (J); 
 
 **2023**
 
