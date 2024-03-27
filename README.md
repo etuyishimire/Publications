@@ -1,3 +1,9 @@
+
+|[Bio](https://etuyishimire.github.io/Bio)|
+| --- |
+|[Publications](https://etuyishimire.github.io/Publications/)|
+|[CV](https://etuyishimire.github.io/CV/)|
+
 ## 2024
 
  **[c19]** Philbert Norimana, Didaciene Mukanyirigira, Emmanuel Tuyishimire. Improving Voronoi scoping with Ant Colony Optimization Algorithm for efficient energy consumption in Multi-hop Wireless Sensor Network of Tin Mining tunnel. In 13th International Conference on Software and Computer Applications (ICSCA 2024) [in press]
