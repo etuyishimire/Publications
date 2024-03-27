@@ -11,6 +11,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 **[c16]** Yamlak Bogale}, Carine P. Mukamakuza and Emmanuel Tuyishimire. Intelligent Malaria Detection and Species Classification: a Case of Rwanda. The 9th International Congress on Information and Communication Technology. London, United Kingdom, 19 - 22 February 2024.  [Accepted]
 
 **[c15]** Chukwuemeka Malachi Ugwu, Carrine Pierrette Mukamakuza and Emmanuel Tuyishimiree. ECG Signals based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers.  IEEE 22nd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2024) to be Stará Lesná, Slovakia. [Accepted]
+
 **[c14]** Eugenia M. Akpo, Carine P. Mukamakuza and Emmanuel Tuyishimire. Binary Segmentation of Malaria Parasites Using UNET Segmentation Approach: A Case of Rwanda. The 9th International Congress on Information and Communication Technology. London, United Kingdom, 19 - 22 February 2024 [Accepted]
 
 ## 2023
@@ -43,6 +44,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 **[c8]** Emmanuel Tuyishimire, Antoine Bagula. A Novel Management Model for Dynamic Sensor Networks Using Diffusion Sets. In 2020 Conference on Information Communications Technology and Society (ICTAS) 2020. IEEE.
 
 ## 2019
+
 [J3] Bigomokero Antoine Bagula, Emmanuel Tuyishimire, Olasupo Ajayi, 2019. Cyber Physical Systems (CPS) Surveillance Using An Epidemic Model. arXiv, pp.arXiv-1912. [ Archived].
 
 [c7] Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Tembisa Ngqondi. Community Healthcare Mesh Network Engineering in White Space Frequencies. In 5th IEEE International Workshop on Smart Spec- trum (IWSS 2019). IEEE.
@@ -65,6 +67,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 **[c3]** Emmanuel Tuyishimire, Antoine Bagula, Rekhis Slim, Boudriga Nouleddine. Cooperative data muling from ground sensors to base stations using UAVs. In Computers and Communications (ISCC), 2017 IEEE Symposium on 2017 Jul 3 (pp. 35-41). IEEE. [B ranked conference].
 
 ## 2016
+
 **[c2]** Emmanuel Tuyishimire, Adiel Idiel, Rekhis Slime, Antoine Bagula , Boudriga Nouleddine. Internet of Things in Motion: A Cooperative Data Muling Model Under Revisit Constraints. In Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld), 2016 Intl IEEE Conferences 2016 Jul 18 (pp. 1123-1130). IEEE. [B ranked conference].
 
 **[c1]** Bagula Antoine, Emmanuel Tuyishimire, Wadepoel J, Boudriga Nouleddine, Rekhis Slim. Internet-of- Things in Motion: A Cooperative Data Muling Model for Public Safety. InUbiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld), 2016 Intl IEEE Conferences 2016 Jul 18 (pp. 17-24). IEEE. [B ranked conference].
