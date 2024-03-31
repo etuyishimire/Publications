@@ -23,7 +23,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 ## 2023
 
-**[c13]** Happiness Rose Mary, Carine Pierrette Mukamakuza, and Emmanuel Tuyishimire. A Data Management Model for Malaria Control: a Case of Rwanda. In AFRICON 2023 IEEE proceedings.
+**[c13]** Happiness Rose Mary, Carine Pierrette Mukamakuza, and Emmanuel Tuyishimire. A Data Management Model for Malaria Control: a Case of Rwanda. In AFRICON 2023 IEEE proceedings. Doi: 10.1109/AFRICON55910.2023.1029367
 
 **[c12]** Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Hloniphani Maluleke. An Economically Feasible TV White Space Detection Model for Fog Connectivity In Low-Income Countries.  In  Satnac. George - South Africa, 2023.
 
