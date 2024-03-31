@@ -25,20 +25,20 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 **[c13]** [Happiness Rose Mary, Carine Pierrette Mukamakuza, and Emmanuel Tuyishimire. A Data Management Model for Malaria Control: a Case of Rwanda. In AFRICON 2023 IEEE proceedings.](https://ieeexplore.ieee.org/abstract/document/10293671)
 
-**[c12]** Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Hloniphani Maluleke. An Economically Feasible TV White Space Detection Model for Fog Connectivity In Low-Income Countries.  In  Satnac. George - South Africa, 2023.
+**[c12]**[ Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Hloniphani Maluleke. An Economically Feasible TV White Space Detection Model for Fog Connectivity In Low-Income Countries.  In  Satnac. George - South Africa, 2023.](https://www.researchgate.net/publication/369417143_An_Economically_Feasible_TV_White_Space_Detection_Model_for_Fog_Connectivity_In_Low-Income_Countries)
 
 
-**[c11]** Emmanuel Tuyishimire, Mukamakuza C.P , Mbituyumuremyi, A., Brown, T.X., Iradukunda, D., Phuti, O. and Happiness. A Malarial Digital Diagnosis System for the Developing World. In 2023 Conference on Information Communications Technology and Society (ICTAS) 2023. IEEE. 
+**[c11]** [Emmanuel Tuyishimire, Mukamakuza C.P , Mbituyumuremyi, A., Brown, T.X., Iradukunda, D., Phuti, O. and Happiness. IT-Aided Forecasting Model for Malaria Spread for the Developing World. In 2023 Conference on Information Communications Technology and Society (ICTAS) 2023. IEEE.](https://ieeexplore.ieee.org/abstract/document/10082725)
 
 ## 2022
 
- **[ J8]** Emmanuel Tuyishimire, Wadzanai Mabuto, Paul Gatabazi, Sylvie Bayisingize. "Detecting learning patterns in tertiary education using K-means clustering" MDPI-Information  (2022).
+ **[ J8]** [Emmanuel Tuyishimire, Wadzanai Mabuto, Paul Gatabazi, Sylvie Bayisingize. "Detecting learning patterns in tertiary education using K-means clustering" MDPI-Information  (2022).](https://www.mdpi.com/2078-2489/13/2/94)
 
- **[ J7]** Emmanuel Tuyishimire, Antoine Bagula ,  Slim Rekhis , Noureddine Boudriga. "Trajectory planing for cooperating unmanned aerial vehicles in the IoT" MDPI-IoT  (2022) 
+ **[ J7]** [Emmanuel Tuyishimire, Antoine Bagula ,  Slim Rekhis , Noureddine Boudriga. "Trajectory planing for cooperating unmanned aerial vehicles in the IoT" MDPI-IoT  (2022).](https://www.mdpi.com/2624-831X/3/1/10)
 
-**[ J6]**  Fuseini Jibreel, Emmanuel Tuyishimire, I M Daabo . "An Enhanced Heterogeneous Gateway-Based Energy-Aware Multi-hop Routing Protocol for Wireless Sensor Networks “   MDPI-Information  (2022) .
+**[ J6]**  [Fuseini Jibreel, Emmanuel Tuyishimire, I M Daabo . "An Enhanced Heterogeneous Gateway-Based Energy-Aware Multi-hop Routing Protocol for Wireless Sensor Networks “   MDPI-Information  (2022).](https://www.mdpi.com/2078-2489/13/4/166)
 
- **[ J5]** Emmanuel Tuyishimire, Jean de Dieu Niyigena, Fidèle Mweruli Tubanambazi, Justin Ushize Rutikanga, Paul Gatabazi, Antoine Bagula . "A novel epidemic model for the interference spread in the internet of things" MDPI-Information  (2022) 
+ **[ J5]**[ Emmanuel Tuyishimire, Jean de Dieu Niyigena, Fidèle Mweruli Tubanambazi, Justin Ushize Rutikanga, Paul Gatabazi, Antoine Bagula . "A novel epidemic model for the interference spread in the internet of things" MDPI-Information  (2022) ](https://www.mdpi.com/2078-2489/13/4/181)
 
 ## 2020
 
