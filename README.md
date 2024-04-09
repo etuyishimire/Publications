@@ -17,7 +17,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 **[c16]** Yamlak Bogale}, Carine P. Mukamakuza and Emmanuel Tuyishimire. Intelligent Malaria Detection and Species Classification: a Case of Rwanda. The 9th International Congress on Information and Communication Technology. London, United Kingdom, 19 - 22 February 2024.  [Accepted]
 
-**[c15]** Chukwuemeka Malachi Ugwu, Carrine Pierrette Mukamakuza and Emmanuel Tuyishimiree. ECG Signals based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers.  IEEE 22nd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2024) to be Stará Lesná, Slovakia. [Accepted]
+**[c15]** [Chukwuemeka Malachi Ugwu, Carrine Pierrette Mukamakuza and Emmanuel Tuyishimiree. ECG Signals based Heartbeat Classification: A Comparative Study of Artificial Neural Network and Support Vector Machine Classifiers.  IEEE 22nd World Symposium on Applied Machine Intelligence and Informatics (SAMI 2024) to be Stará Lesná, Slovakia.](https://ieeexplore.ieee.org/document/10432834)
 
 **[c14]** Eugenia M. Akpo, Carine P. Mukamakuza and Emmanuel Tuyishimire. Binary Segmentation of Malaria Parasites Using UNET Segmentation Approach: A Case of Rwanda. The 9th International Congress on Information and Communication Technology. London, United Kingdom, 19 - 22 February 2024 [Accepted]
 
