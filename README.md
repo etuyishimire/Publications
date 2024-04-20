@@ -48,7 +48,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 **[c9]**[ Emmanuel Tuyishimire, Antoine Bagula. Modelling and analysis of interference diffusion in the internet of things: an epidemic model. In 2020 Conference on Information Communications Technology and Society (ICTAS) 2020. IEEE.](https://ieeexplore.ieee.org/abstract/document/9082472 )
 
-**[c8]**[ Emmanuel Tuyishimire, Antoine Bagula. A Novel Management Model for Dynamic Sensor Networks Using Diffusion Sets. In 2020 Conference on Information Communications Technology and Society (ICTAS) 2020. IEEE.](https://ieeexplore.ieee.org/abstract/document/9082465 )
+**[c8]**[ Emmanuel Tuyishimire, Antoine Bagula. A Novel Management Model for Dynamic Sensor Networks Using Diffusion Sets. In 2020 Conference on Information Communications Technology and Society (ICTAS) 2020. IEEE.](https://ieeexplore.ieee.org/abstract/document/9082465)
 
 ## 2019
 
