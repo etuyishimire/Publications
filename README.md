@@ -52,7 +52,7 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 ## 2019
 
-[J3] [Bigomokero Antoine Bagula, Emmanuel Tuyishimire, Olasupo Ajayi, 2019. Cyber Physical Systems (CPS) Surveillance Using An Epidemic Model. arXiv, pp.arXiv-1912.] (https://arxiv.org/abs/1912.07479)[ Archived].
+[J3] [Bigomokero Antoine Bagula, Emmanuel Tuyishimire, Olasupo Ajayi, 2019. Cyber Physical Systems (CPS) Surveillance Using An Epidemic Model. arXiv, pp.arXiv-1912.](https://arxiv.org/abs/1912.07479) [ Archived].
 
 [c7][ Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Tembisa Ngqondi. Community Healthcare Mesh Network Engineering in White Space Frequencies. In 5th IEEE International Workshop on Smart Spec- trum (IWSS 2019). IEEE.]( https://ieeexplore.ieee.org/abstract/document/8996129)
 
