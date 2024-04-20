@@ -52,18 +52,18 @@ Information and Communication Technology. ICICT 2024.  USA [Accepted]
 
 ## 2019
 
-[J3] [Bigomokero Antoine Bagula, Emmanuel Tuyishimire, Olasupo Ajayi, 2019. Cyber Physical Systems (CPS) Surveillance Using An Epidemic Model. arXiv, pp.arXiv-1912. (https://arxiv.org/abs/1912.07479)[ Archived].]
+[J3] [Bigomokero Antoine Bagula, Emmanuel Tuyishimire, Olasupo Ajayi, 2019. Cyber Physical Systems (CPS) Surveillance Using An Epidemic Model. arXiv, pp.arXiv-1912.] (https://arxiv.org/abs/1912.07479)[ Archived].
 
 [c7][ Hope Mauwa, Antoine Bagula, Emmanuel Tuyishimire, Tembisa Ngqondi. Community Healthcare Mesh Network Engineering in White Space Frequencies. In 5th IEEE International Workshop on Smart Spec- trum (IWSS 2019). IEEE.]( https://ieeexplore.ieee.org/abstract/document/8996129)
 
 [c6][ Mauwa H, Bagula A, Emmanuel Tuyishimire. An Optimal Spectrum Allocation Strategy for Dynamic Spectrum Markets. In2019 IEEE Wireless Communications and Networking Conference Workshop (WC- NCW) 2019 Apr 15 (pp. 1-8). IEEE.](https://ieeexplore.ieee.org/abstract/document/8923225 ).[B ranked conference]
 
-[J2][ Emmanuel Tuyishimire, Antoine Bagula, and Adiel Ismail. "Clustered Data Muling in the Internet of Things in Motion." MDPI-Sensors 19, no. 3 (2019): 484.] (https://www.mdpi.com/1424-8220/19/3/484 )[2019 impact factor: 3.031]
+[J2][ Emmanuel Tuyishimire, Antoine Bagula, and Adiel Ismail. "Clustered Data Muling in the Internet of Things in Motion." MDPI-Sensors 19, no. 3 (2019): 484.](https://www.mdpi.com/1424-8220/19/3/484 ) [2019 impact factor: 3.031]
 
 
 ## 2018
 
-**[J1]** [Adiel Ismail, Bigomokero Antoine Bagula, Emmanuel Tuyishimire. Internet-of-Things in Motion: A UAV Coalition Model for Remote Sensing in Smart Cities. MDPI-Sensors, 2018.] (https://www.mdpi.com/1424-8220/18/7/2184 )[2019 impact factor: 3.031]
+**[J1]** [Adiel Ismail, Bigomokero Antoine Bagula, Emmanuel Tuyishimire. Internet-of-Things in Motion: A UAV Coalition Model for Remote Sensing in Smart Cities. MDPI-Sensors, 2018.](https://www.mdpi.com/1424-8220/18/7/2184 ) [2019 impact factor: 3.031]
 
 **[c5]** [Emmanuel Tuyishimire, Bagula B.A., Ismail A. (2018) Optimal Clustering for Efficient Data Mul- ing in the Internet-of-Things in Motion. In: Boudriga N., Alouini MS., Rekhis S., Sabir E., Pollin S.     (eds) Ubiquitous Networking. UNet 2018. Lecture Notes in Computer Science, vol 11277. Springer,  Cham.]( https://link.springer.com/chapter/10.1007/978-3-030-02849-7_32)
 
