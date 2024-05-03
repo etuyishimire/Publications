@@ -10,7 +10,7 @@
  **[c19]** Philbert Norimana, Didaciene Mukanyirigira, Emmanuel Tuyishimire. Improving Voronoi scoping with Ant Colony Optimization Algorithm for efficient energy consumption in Multi-hop Wireless Sensor Network of Tin Mining tunnel. In 13th International Conference on Software and Computer Applications (ICSCA 2024) [in press]
 
   **[c18]** [Emmanuel Tuyishimire. A Formal Specification of a Data Model for Malaria Surveillance in the Developing World.  2024 International Congress on
-Information and Communication Technology. ICICT 2024.  USA](https://arxiv.org/abs/2404.17859) [Accepted]
+Information and Communication Technology. ICICT 2024.  USA](https://arxiv.org/abs/2404.17859) [Accepted but archived due to funding issue]
 
  **[c17]** Alain Destin Nishimwe Karasira, Carine Pierrette Mukamakuza, and Emmanuel Tuyishimire. The Use of YOLOv5 as a Malaria Detection Model for the Developing World. 2024 International Congress on
 Information and Communication Technology. ICICT 2024.  USA [Accepted]
